@@ -1,0 +1,164 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "name": "Spaghetti Bolognese",
+      "ingredients": "Spaghetti, ground beef, tomato sauce, garlic, onion",
+      "description": "A hearty Italian classic with rich meat sauce.",
+      "instructions": "1. Cook spaghetti in salted boiling water until al dente.\n2. In a pan, sauté onions and garlic in olive oil.\n3. Add ground beef and cook until browned.\n4. Stir in tomato sauce and simmer for 20 minutes.\n5. Serve the sauce over the spaghetti and garnish with Parmesan cheese.",
+      "image": "https://food-images.files.bbci.co.uk/food/recipes/easy_spaghetti_bolognese_93639_16x9.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Chicken Alfredo",
+      "ingredients": "Fettuccine, chicken, heavy cream, Parmesan cheese, garlic",
+      "description": "Creamy pasta with tender chicken.",
+      "instructions": "1. Cook fettuccine in salted water until al dente.\n2. Season chicken and cook in a skillet until golden.\n3. In the same pan, add garlic and sauté until fragrant.\n4. Pour in heavy cream and simmer, then stir in Parmesan.\n5. Toss pasta with the sauce and chicken, and serve warm.",
+      "image": "https://www.foodnetwork.com/content/dam/images/food/fullset/2015/9/15/1/FNK_Chicken-Fettucine-Alfredo_s4x3.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Margherita Pizza",
+      "ingredients": "Pizza dough, tomato sauce, mozzarella, basil",
+      "description": "Simple and fresh pizza with mozzarella and basil.",
+      "instructions": "1. Preheat oven to 475°F (245°C).\n2. Roll out pizza dough and spread a thin layer of tomato sauce.\n3. Top with slices of fresh mozzarella and basil leaves.\n4. Bake in the oven for 10-12 minutes until the crust is golden.\n5. Drizzle with olive oil and serve hot.",
+      "image": "https://www.mecooks.com/wp-content/uploads/2022/03/IMGL1725-min-scaled.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Caesar Salad",
+      "ingredients": "Romaine lettuce, croutons, Caesar dressing, Parmesan",
+      "description": "Crisp salad with creamy Caesar dressing.",
+      "instructions": "1. Chop romaine lettuce into bite-sized pieces.\n2. Toss with Caesar dressing until evenly coated.\n3. Add croutons and mix gently.\n4. Sprinkle with grated Parmesan cheese.\n5. Serve immediately as a side or appetizer.",
+      "image": "https://www.afamilyfeast.com/wp-content/uploads/2012/12/Caesar-Salad-with-Grilled-Caesar-Chicken-1.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Beef Tacos",
+      "ingredients": "Tortillas, ground beef, lettuce, tomato, cheese, taco sauce",
+      "description": "Flavorful tacos with fresh toppings.",
+      "instructions": "1. Brown the ground beef in a skillet and season with taco spices.\n2. Warm tortillas in a pan or microwave.\n3. Fill tortillas with cooked beef, shredded lettuce, and diced tomato.\n4. Sprinkle with shredded cheese and drizzle taco sauce.\n5. Fold and serve immediately.",
+      "image": "https://embed.widencdn.net/img/beef/gcuz19twra/1120x840px/beef-steak-soft-tacos-horizontal.tif?keep=c&u=7fueml"
+    },
+    {
+      "id": "6",
+      "name": "Vegetable Stir Fry",
+      "ingredients": "Broccoli, bell peppers, carrots, soy sauce, garlic, ginger",
+      "description": "Quick and healthy vegetable dish.",
+      "instructions": "1. Heat oil in a wok or skillet.\n2. Add garlic and ginger and stir-fry until fragrant.\n3. Toss in broccoli, bell peppers, and carrots and stir-fry for 5 minutes.\n4. Add soy sauce and cook for another 2 minutes.\n5. Serve hot over steamed rice or noodles.",
+      "image": "https://static.toiimg.com/thumb/54868445.cms?width=1200&height=900"
+    },
+    {
+      "id": "7",
+      "name": "Classic Cheeseburger",
+      "ingredients": "Burger bun, beef patty, cheddar cheese, lettuce, tomato, onion",
+      "description": "Juicy burger with fresh toppings.",
+      "instructions": "1. Season beef patties with salt and pepper.\n2. Cook the patties on a grill or skillet until desired doneness.\n3. Place a slice of cheddar cheese on top to melt.\n4. Assemble the burger with lettuce, tomato, onion, and patty on a toasted bun.\n5. Serve with fries or a side salad.",
+      "image": "https://assets.epicurious.com/photos/5c745a108918ee7ab68daf79/master/pass/Smashburger-recipe-120219.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Grilled Salmon",
+      "ingredients": "Salmon, olive oil, lemon, garlic, parsley",
+      "description": "Tender and flavorful grilled salmon.",
+      "instructions": "1. Preheat grill to medium-high heat.\n2. Brush salmon fillets with olive oil and season with salt and pepper.\n3. Grill skin-side down for 4-5 minutes, then flip.\n4. Squeeze fresh lemon juice and sprinkle with parsley.\n5. Serve with a side of vegetables or rice.",
+      "image": "https://arteflame.com/cdn/shop/articles/perfectly_grilled_salmon_in_Japanese_BBQ_sauce.webp?v=1717430340&width=1600"
+    },
+    {
+      "id": "9",
+      "name": "Pancakes",
+      "ingredients": "Flour, milk, eggs, sugar, butter, syrup",
+      "description": "Fluffy and golden breakfast favorite.",
+      "instructions": "1. Mix flour, sugar, eggs, and milk into a smooth batter.\n2. Heat a non-stick pan and add a small amount of butter.\n3. Pour batter onto the pan and cook until bubbles form.\n4. Flip and cook until golden brown.\n5. Serve with syrup and toppings of choice.",
+      "image": "https://eggs.ca/wp-content/uploads/2024/06/fluffy-pancakes-1664x832-1.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Chocolate Brownies",
+      "ingredients": "Cocoa powder, sugar, butter, flour, eggs",
+      "description": "Rich and fudgy chocolate treat.",
+      "instructions": "1. Melt butter and mix with cocoa powder and sugar.\n2. Stir in eggs and flour until smooth.\n3. Pour batter into a greased baking dish.\n4. Bake at 350°F (175°C) for 25-30 minutes.\n5. Cool before cutting into squares and serving.",
+      "image": "https://cdn.shopify.com/s/files/1/0533/6743/9558/t/5/assets/pf-2c214f4b--Earl-Grey-Chocolate-Brownie.jpg?v=1621245206"
+    },
+      {
+        "id": "21",
+        "name": "Butter Chicken",
+        "description": "A creamy and flavorful curry made with tender chicken simmered in a rich tomato-butter sauce.",
+        "ingredients": "Chicken, butter, cream, tomatoes, garlic, ginger, garam masala, chili powder, kasuri methi.",
+        "instructions": "Marinate chicken with spices and yogurt. Cook chicken until tender. Prepare a creamy tomato-based sauce with butter, cream, and spices. Mix chicken with sauce and simmer.",
+        "image": "https://www.sadia-life.com/media/3qemkmom/butterchikcen.png?anchor=center&mode=crop&rnd=132629758417070000"
+      },
+      {
+        "id": "22",
+        "name": "Paneer Tikka Masala",
+        "description": "A spicy and creamy curry made with grilled paneer chunks in a luscious tomato gravy.",
+        "ingredients": "Paneer, yogurt, onions, tomatoes, cream, ginger, garlic, garam masala, turmeric.",
+        "instructions": "Marinate paneer in spiced yogurt. Grill or pan-fry until golden. Prepare a rich tomato and cream sauce, then mix paneer into the sauce and simmer.",
+        "image": "https://experience-fresh.panasonic.eu/wp-content/uploads/2018/12/Paneer_Tikka_Masala_enjoy_181205-1300x867.jpg"
+      },
+      {
+        "id": "23",
+        "name": "Chole (Chickpea Curry)",
+        "description": "A hearty and flavorful North Indian curry made with chickpeas and aromatic spices.",
+        "ingredients": "Chickpeas, onions, tomatoes, garlic, ginger, chole masala, turmeric, coriander.",
+        "instructions": "Soak and boil chickpeas until soft. Sauté onions and spices. Add tomatoes and cook until thickened. Mix chickpeas with masala and simmer.",
+        "image": "https://www.maggi.in/sites/default/files/styles/home_stage_944_531/public/srh_recipes/cc8f9693ee73e54cb3186eff5e60e5e8.jpg?h=e5aec6c8&itok=8fzqHMPs"
+      },
+      {
+        "id": "24",
+        "name": "Hyderabadi Biryani",
+        "description": "A world-famous fragrant rice dish layered with marinated meat and aromatic spices.",
+        "ingredients": "Basmati rice, chicken or mutton, yogurt, onions, saffron, biryani masala, mint, ghee.",
+        "instructions": "Marinate meat in yogurt and spices. Partially cook rice. Layer rice and meat, top with saffron milk, and cook on low heat until done.",
+        "image": "https://assets.cntraveller.in/photos/63997ddc9ee4918a0f9a6861/16:9/w_1024%2Cc_limit/biryani%2520in%2520hyderabad.jpg"
+      },
+      {
+        "id": "25",
+        "name": "Masala Dosa",
+        "description": "A South Indian delicacy consisting of crispy rice crepes filled with spiced potato masala.",
+        "ingredients": "Dosa batter, potatoes, onions, green chilies, mustard seeds, curry leaves.",
+        "instructions": "Prepare potato masala with boiled potatoes and spices. Spread dosa batter on a hot pan to make thin crepes. Fill with potato masala and fold.",
+        "image": "https://revi.b-cdn.net/wp-content/uploads/2017/03/masala-dosa-2.jpg"
+      },
+      {
+        "id": "26",
+        "name": "Rajma (Kidney Bean Curry)",
+        "description": "A comforting and protein-rich curry made with red kidney beans in a spiced tomato sauce.",
+        "ingredients": "Kidney beans, onions, tomatoes, garlic, ginger, garam masala, cumin, coriander.",
+        "instructions": "Soak and boil kidney beans. Sauté onions and spices. Add tomatoes and cook into a thick masala. Mix beans with masala and simmer.",
+        "image": "https://www.babsprojects.com/wp-content/uploads/2021/05/rajama-bhaji-rec.jpg"
+      },
+      {
+        "id": "27",
+        "name": "Aloo Gobi",
+        "description": "A simple yet delicious vegetarian dish made with potatoes and cauliflower flavored with Indian spices.",
+        "ingredients": "Potatoes, cauliflower, onions, garlic, ginger, turmeric, cumin, garam masala.",
+        "instructions": "Sauté onions, garlic, and spices. Add potatoes and cauliflower. Cook on low heat until tender, stirring occasionally.",
+        "image": "https://i.ndtvimg.com/i/2018-04/aloo-gobhi_650x400_51523431099.jpg"
+      },
+      {
+        "id": "28",
+        "name": "Palak Paneer",
+        "description": "A healthy and flavorful curry made with spinach purée and paneer cooked with spices.",
+        "ingredients": "Spinach, paneer, onions, garlic, ginger, cream, garam masala.",
+        "instructions": "Blanch spinach and blend into a purée. Sauté paneer and set aside. Cook onions, garlic, and spices. Add spinach purée, cream, and paneer. Simmer.",
+        "image": "https://chefajaychopra.com/assets/img/recipe/1-1666433552palakpaneer1webp.webp"
+      },
+      {
+        "id": "29",
+        "name": "Daal Tadka",
+        "description": "A simple yet flavorful lentil dish topped with a spiced tempering of garlic and ghee.",
+        "ingredients": "Lentils (toor or moong), garlic, onions, tomatoes, ghee, cumin, turmeric.",
+        "instructions": "Boil lentils until soft. Prepare a tadka with ghee, garlic, onions, and spices. Mix tadka with cooked lentils and simmer.",
+        "image": "https://i0.wp.com/www.dhabastyle.com/wp-content/uploads/2017/04/maxresdefault-1.jpg?fit=1100%2C619&ssl=1"
+      },
+      {
+        "id": "30",
+        "name": "Kheer (Rice Pudding)",
+        "description": "A rich and creamy Indian dessert made with milk, rice, sugar, and aromatic spices.",
+        "ingredients": "Rice, milk, sugar, cardamom, saffron, almonds, raisins.",
+        "instructions": "Boil rice in milk until soft. Add sugar, cardamom, and saffron. Simmer until thickened. Garnish with nuts and serve chilled.",
+        "image": "https://www.nestleprofessional.in/sites/default/files/2022-07/Rice-Kheer.jpg"
+      }
+  ]
+}
