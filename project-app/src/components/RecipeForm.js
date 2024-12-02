@@ -50,6 +50,15 @@ const RecipeForm = () => {
         />
       </label>
       <label>
+        Instructions:
+        <textarea
+          name="insructions"
+          value={form.instructions}
+          onChange={handleChange}
+          required
+        />
+      </label>
+      <label>
         Description:
         <textarea
           name="description"
